@@ -15,7 +15,7 @@ Files:
 #install Virtualenv is - a tool to set up your Python environments
 pip install virtualenv
 #create virtual environment (serve only this project):
-python -m venv venv
+python3 -m venv venv
 #activate virtual environment
 source venv/bin/activate
 + (venv) should appear as prefix to all command (run next command just after activating venv)
